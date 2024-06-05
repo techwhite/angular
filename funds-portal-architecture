@@ -1,11 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T23:15:32.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AyscCfyP71hPpYbfo1-h" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T23:39:27.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_3sWuqIYeT-8fBuQA7ZA" version="24.4.14" type="github">
   <diagram name="Page-1" id="NyY7N75jwNs7xgrLQ5vW">
-    <mxGraphModel dx="794" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JieRbE5Tna2zCibENqtc-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="290" height="220" as="geometry" />
+          <mxGeometry x="120" y="200" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-8" value="Azure Repo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-9" value="Funds-User (UI+BE)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="240" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-10" value="Funds-Admin (UI)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="290" width="167.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-13" value="Azure Container Repo" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="430" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-14" value="Image" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="470" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-15" value="Image" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="470" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-17" value="Image" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="470" width="55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="200" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-20" value="Azure App Service" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-21" value="Funds-User-UI Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-23" value="Funds-User BE Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="410" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-25" value="Azure App Service" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="410" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-26" value="Funds-Admin-UI Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="460" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JieRbE5Tna2zCibENqtc-33" value="Local Developer Env" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
