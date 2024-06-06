@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T02:06:02.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IvJpYHB9NPCEGjIu_Yh7" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T02:08:48.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UbvvMLIP2BMMvk4CorGE" version="24.4.14" type="github">
   <diagram name="Page-1" id="NyY7N75jwNs7xgrLQ5vW">
     <mxGraphModel dx="1134" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -99,11 +99,11 @@
         <mxCell id="JieRbE5Tna2zCibENqtc-33" value="Development" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="260" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uc6EsHAa8qROCRT9oY_X-7" value="Azure Cloud Env" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Uc6EsHAa8qROCRT9oY_X-7" value="Azure Cloud Env" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="420" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uc6EsHAa8qROCRT9oY_X-8" value="Corp Env" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="55" height="20" as="geometry" />
+        <mxCell id="Uc6EsHAa8qROCRT9oY_X-8" value="Corp Env" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="230" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KRLgxCMD_kFt3zBcadN7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KRLgxCMD_kFt3zBcadN7-43" target="JieRbE5Tna2zCibENqtc-18">
           <mxGeometry relative="1" as="geometry" />
@@ -165,7 +165,7 @@
         <mxCell id="KRLgxCMD_kFt3zBcadN7-38" value="Azure API Management &amp;amp; Gateway Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="492" y="614" width="246" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-44" value="Portal User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KRLgxCMD_kFt3zBcadN7-44" value="Portal User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="543" y="230" width="67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KRLgxCMD_kFt3zBcadN7-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;strokeWidth=3;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1">
