@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T23:35:18.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="b6HUAx4Mcj4yDQcC9r3a" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T23:36:51.770Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mjIYt-js2cpA1XO-6jbv" version="24.5.5" type="github">
   <diagram name="Page-1" id="NyY7N75jwNs7xgrLQ5vW">
     <mxGraphModel dx="1034" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,8 +45,10 @@
         <mxCell id="Uc6EsHAa8qROCRT9oY_X-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="185" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="JieRbE5Tna2zCibENqtc-24" target="KRLgxCMD_kFt3zBcadN7-38" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KRLgxCMD_kFt3zBcadN7-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="JieRbE5Tna2zCibENqtc-24" target="JieRbE5Tna2zCibENqtc-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="599" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KRLgxCMD_kFt3zBcadN7-41" value="frontend request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KRLgxCMD_kFt3zBcadN7-39" vertex="1" connectable="0">
           <mxGeometry x="-0.119" relative="1" as="geometry">
@@ -54,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JieRbE5Tna2zCibENqtc-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
-          <mxGeometry x="475" y="640" width="280" height="80" as="geometry" />
+          <mxGeometry x="473" y="640" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JieRbE5Tna2zCibENqtc-25" value="Azure App Service" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="640" width="110" height="20" as="geometry" />
@@ -90,7 +92,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KRLgxCMD_kFt3zBcadN7-43" target="JieRbE5Tna2zCibENqtc-24" edge="1">
+        <mxCell id="KRLgxCMD_kFt3zBcadN7-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#333333;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="KRLgxCMD_kFt3zBcadN7-43" target="JieRbE5Tna2zCibENqtc-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="285" as="sourcePoint" />
             <Array as="points">
@@ -130,21 +132,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-32" value="docker image build &amp;amp; push&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KRLgxCMD_kFt3zBcadN7-31" vertex="1" connectable="0">
+        <mxCell id="KRLgxCMD_kFt3zBcadN7-32" value="package &amp;amp; copy &amp;amp; deploy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KRLgxCMD_kFt3zBcadN7-31" vertex="1" connectable="0">
           <mxGeometry x="0.0198" y="-3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeWidth=2;strokeColor=#b85450;" parent="1" source="KRLgxCMD_kFt3zBcadN7-38" target="JieRbE5Tna2zCibENqtc-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-42" value="route to backend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KRLgxCMD_kFt3zBcadN7-40" vertex="1" connectable="0">
-          <mxGeometry x="-0.1247" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KRLgxCMD_kFt3zBcadN7-38" value="Azure API Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;" parent="1" vertex="1">
-          <mxGeometry x="492" y="569" width="246" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRLgxCMD_kFt3zBcadN7-44" value="Portal User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="544" y="185" width="67" height="20" as="geometry" />
